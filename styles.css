@@ -136,3 +136,12 @@ input[type=text], select, textarea {
     margin-right:auto;
     text-align:center;
   }
+
+.body_table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.body_table th {
+    width: 25%;
+}
